@@ -1,5 +1,4 @@
 # Blinkit_Sales_Dashboard
-# 🛒 Blinkit Grocery Sales Dashboard
 
 A visually interactive sales dashboard created using Excel, designed to analyze grocery sales data from Blinkit — India's last-minute delivery app. This project includes advanced pivot tables, charts, filters, and KPIs to extract meaningful insights from sales data.
 
