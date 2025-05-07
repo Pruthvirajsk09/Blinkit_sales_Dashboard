@@ -28,7 +28,7 @@ The dataset includes the following attributes:
 
 ---
 
-## 📈 Tools Used
+## Tools Used
 
 - **Microsoft Excel** for:
   - Data cleaning & preparation
