@@ -2,14 +2,14 @@
 
 A visually interactive sales dashboard created using Excel, designed to analyze grocery sales data from Blinkit — India's last-minute delivery app. This project includes advanced pivot tables, charts, filters, and KPIs to extract meaningful insights from sales data.
 
-## 📊 Key Features
+## Key Features
 
 - **Total Sales**: ₹1.20 Million+
 - **Average Sales per Item**: ₹141
 - **Average Rating**: 3.97
 - **Total Items Sold**: 8523
 
-### 🔍 Visual Insights
+### Visual Insights
 
 - **Sales by Item Type**: Top-performing categories like Fruits, Snacks, and Household items.
 - **Sales by Outlet Size**: Medium and High outlets lead in revenue.
@@ -36,6 +36,4 @@ The dataset includes the following attributes:
   - Interactive dashboards using slicers & visuals
 
 ---
-
-## 📁 File Structure
 
