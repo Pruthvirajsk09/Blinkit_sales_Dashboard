@@ -4,8 +4,8 @@ A visually interactive sales dashboard created using Excel, designed to analyze 
 
 ## Key Features
 
-- **Total Sales**: ₹1.20 Million+
-- **Average Sales per Item**: ₹141
+- **Total Sales**: $1.20 Million+
+- **Average Sales per Item**: $141
 - **Average Rating**: 3.97
 - **Total Items Sold**: 8523
 
@@ -19,7 +19,7 @@ A visually interactive sales dashboard created using Excel, designed to analyze 
 
 ---
 
-## 🧾 Dataset Overview
+## Dataset Overview
 
 The dataset includes the following attributes:
 - `Item Type`, `Item Weight`, `Item Fat Content`
@@ -36,4 +36,3 @@ The dataset includes the following attributes:
   - Interactive dashboards using slicers & visuals
 
 ---
-
